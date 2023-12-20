@@ -1,0 +1,15 @@
+/home/brenoacioli/Documents/CampoMinado/bin/Debug/net7.0/CampoMinado
+/home/brenoacioli/Documents/CampoMinado/bin/Debug/net7.0/CampoMinado.deps.json
+/home/brenoacioli/Documents/CampoMinado/bin/Debug/net7.0/CampoMinado.runtimeconfig.json
+/home/brenoacioli/Documents/CampoMinado/bin/Debug/net7.0/CampoMinado.dll
+/home/brenoacioli/Documents/CampoMinado/bin/Debug/net7.0/CampoMinado.pdb
+/home/brenoacioli/Documents/CampoMinado/obj/Debug/net7.0/CampoMinado.csproj.AssemblyReference.cache
+/home/brenoacioli/Documents/CampoMinado/obj/Debug/net7.0/CampoMinado.GeneratedMSBuildEditorConfig.editorconfig
+/home/brenoacioli/Documents/CampoMinado/obj/Debug/net7.0/CampoMinado.AssemblyInfoInputs.cache
+/home/brenoacioli/Documents/CampoMinado/obj/Debug/net7.0/CampoMinado.AssemblyInfo.cs
+/home/brenoacioli/Documents/CampoMinado/obj/Debug/net7.0/CampoMinado.csproj.CoreCompileInputs.cache
+/home/brenoacioli/Documents/CampoMinado/obj/Debug/net7.0/CampoMinado.dll
+/home/brenoacioli/Documents/CampoMinado/obj/Debug/net7.0/refint/CampoMinado.dll
+/home/brenoacioli/Documents/CampoMinado/obj/Debug/net7.0/CampoMinado.pdb
+/home/brenoacioli/Documents/CampoMinado/obj/Debug/net7.0/CampoMinado.genruntimeconfig.cache
+/home/brenoacioli/Documents/CampoMinado/obj/Debug/net7.0/ref/CampoMinado.dll
